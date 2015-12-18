@@ -21,6 +21,15 @@ Add to your application.js:
     //= require moxie
     //= require plupload.dev
 
+OR
+
+    //= require moxie.min
+    //= require plupload.min
+
+OR
+
+    //= require plupload.full.min
+
     // optional, only needed if you'd like to use plupload localized
     //= require plupload/i18n/de
 
